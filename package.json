@@ -1,0 +1,15 @@
+{
+    "name": "ym_analyse_produce",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "iconv-lite": "~0.1.2",
+        "line-reader": "~0.2.4",
+        "mysql": "~2.5.3",
+        "underscore": "~1.7.0",
+        "async": "~0.9.0"
+    }
+}
